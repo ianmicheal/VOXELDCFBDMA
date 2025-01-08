@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [x] Develop workking code of voxel space engine for Dreamcast
+- [x] Develop working code of voxel space engine for Dreamcast
 - [x] FPS Count
 - [x] Cleanup code
 - [x] Performance fix
